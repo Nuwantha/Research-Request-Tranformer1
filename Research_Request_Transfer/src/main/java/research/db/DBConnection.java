@@ -8,7 +8,6 @@ import java.net.UnknownHostException;
 
 public class DBConnection {
 
- ;
     private static DBConnection dbConnection;
     private final DB database;
 
